@@ -38,9 +38,6 @@ class LuckySevens {
         <table>
             <tbody>
                 <tr>
-                    <th colspan="2" class="text-center">Results</th>
-                </tr>
-                <tr>
                     <td>Starting Bet</td>
                     <td>$${this._start.toFixed(2)}</td>
                 </tr>
